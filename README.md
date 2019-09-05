@@ -1,11 +1,11 @@
-# LAB - 16
+# LAB - 17
 
- ## Event Driven Applications
+ ## Socket.io
 
  ### Author: Evan Brecht-Curry
 
  ### Links and Resources
-* [submission PR](https://github.com/evan-401-advanced-javascript/lab-16-event-driven-applications)
+* [submission PR](https://github.com/evan-401-advanced-javascript/lab-17-socket-io/pull/1)
 * [docs](http://localhost:3000/docs/)
 
 
